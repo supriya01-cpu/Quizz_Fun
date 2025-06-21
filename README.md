@@ -1,7 +1,7 @@
 # 🧠 Quiz App with Timer, Skip & Score Summary
 
 A dynamic and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. Designed for students of class 6–10, the quiz contains a mix of factual and reasoning questions with built-in timer and intelligent result analysis.
-
+Live Demo - https://supriya01-cpu.github.io/Quizz_Fun/
 ---
 
 ## 🚀 Features
